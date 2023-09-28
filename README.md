@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://hardikjaingit.github.io/Web-Dev-Submission/ and https://hardikjaingit.github.io/Hack-Stack-WebD/](https://hardikjaingit.github.io/Web-Dev-Submission/ and https://hardikjaingit.github.io/Hack-Stack-WebD/)
+- 👨‍💻 All of my projects are available at https://hardikjaingit.github.io/Web-Dev-Submission/ and https://hardikjaingit.github.io/Hack-Stack-WebD/
 
 - ⚡ Fun fact **Sadness is everywhere**
 
