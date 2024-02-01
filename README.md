@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hardik Jain</h1>
 <h3 align="center">Second yearite at IITG ECE</h3>
 
-- 🔭 I’m currently working on **CP**
+- 🔭 I’m currently working on **Analog Circuit Design**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA and Analog**
 
 - 👨‍💻 All of my projects are available at [https://hardikjaingit.github.io/Web-Dev-Submission/ and https://hardikjaingit.github.io/Hack-Stack-WebD/](https://hardikjaingit.github.io/Web-Dev-Submission/ and https://hardikjaingit.github.io/Hack-Stack-WebD/)
 
