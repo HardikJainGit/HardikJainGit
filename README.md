@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hardik Jain</h1>
+<h1 align="center">Hi, I'm Hardik Jain</h1>
 <h3 align="center">Student at IIT Guwahati</h3>
 
 <h3 align="left">Languages and Tools:</h3>
