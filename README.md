@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hardik Jain</h1>
+<h1 align="center">Hi, I'm Hardik Jain</h1>
 <h3 align="center">Student at IIT Guwahati</h3>
 
 - 📫 Reach me at **h.jain@iitg.ac.in** or **hardikjain088@gmail.com**
