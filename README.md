@@ -2,10 +2,13 @@
 <h3 align="center">A Pre-Final Yearite at IIT Guwahati</h3>
 
 - 📫 Reach me at **h.jain@iitg.ac.in** or **hardikjain088@gmail.com**
+  <br><br>
 <div align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="400" alt="LinkedIn Profile">
+<!--     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="400" alt="LinkedIn Profile"> -->
+    <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400"></img>
+
 </div>
-<br><br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/hardik-jain-001953266/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
