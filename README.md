@@ -4,8 +4,8 @@
 - 📫 Reach me at **h.jain@iitg.ac.in** or **hardikjain088@gmail.com**
   <br><br>
 <div align="center">
-<!--     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="400" alt="LinkedIn Profile"> -->
-    <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400"></img>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="400" alt="LinkedIn Profile">
+<!--     <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400"></img> -->
 
 </div>
 <br>
